@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Westiar/DMC_Kat/t_kat_face_d"
+	"$bumpmap" "models/Westiar/DMC_Kat/t_kat_face_n"
+$alphatest 1
+$nocull "1"
+$halflambert 1
+$nodecal 1
+$phong "1"
+$phongboost "0.20"
+$phongexponent "100"
+$phongexponenttexture	"models/Westiar/DMC_Kat/t_kat_face_n"
+$phongfresnelranges "1 1 1]"
+$nodecal "1"
+$ambientocclusion "1"
+}

@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" 	"models/Westiar/DMC_Kat/t_kat_eye_d"
+	"$iris" 	"models/Westiar/DMC_Kat/t_kat_eye_d"
+	"$halflambert" 1
+}

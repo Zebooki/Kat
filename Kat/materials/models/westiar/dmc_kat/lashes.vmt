@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Westiar/DMC_Kat/t_kat_caruncles_d"
+	"$alphatest" 1
+}

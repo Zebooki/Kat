@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Westiar/DMC_Kat/t_kat_skinAndJumper_dm"
+	"$bumpmap"  "models/Westiar/DMC_Kat/t_kat_skinAndJumper_n"
+	$halflambert 1
+	$alphatest 1
+	$phong 1
+	$phongexponent 45
+	$phongexponenttexture "models/Westiar/DMC_Kat/clothes_l"
+	$phongboost	1
+	$phongfresnelranges	"[0.03 0.1 0]"
+
+	$rimlight               1
+	$rimlightexponent       75
+	$rimlightboost          2	
+}
